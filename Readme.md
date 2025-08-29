@@ -46,10 +46,12 @@ Run this project locally in 3 simple steps:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+
+Github link: 
+git clone https://github.com/shahidulislam-cse/joruri-seba-bd.git
 
 # 2. Go into the project folder
-cd your-repo-name
+cd joruri-seba-bd
 
 # 3. Open index.html in a browser
 ```
