@@ -1,0 +1,26 @@
+/* Google Font: Poppins */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F0FFF4;
+}
+
+/* Hero Section Gradient Background */
+#hero-section {
+    background: linear-gradient(to right, #004d40, #005a4b);
+}
+
+/* Heart Icon Style in Cards */
+.heart-icon-card {
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.heart-icon-card:hover {
+    transform: scale(1.1);
+}
+
+/* Style for Liked Heart Icon */
+.heart-icon-card.liked {
+    color: #EF4444; /* Red color */
+    fill: #EF4444;  /* Fill inside of SVG */
+}
