@@ -7,7 +7,7 @@
 An **interactive web application** that provides a directory of **emergency hotline numbers in Bangladesh**.
 It allows users to **copy, like, and simulate calls** to emergency services while tracking interactions via a **coin-based system**.
 
-🔗 **Live Demo:** [Click Here](https://shahidulislam-cse.github.io/Emergency-Service/)
+🔗 **Live Demo:** [Click Here](https://shahidulislam-cse.github.io/joruri-seba-bd/)
 
 ---
 
